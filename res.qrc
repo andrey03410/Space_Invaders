@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>img/spaceship.png</file>
+        <file>img/bomb.png</file>
+        <file>img/rocket.png</file>
+        <file>img/alien.png</file>
+        <file>img/logo.png</file>
+        <file>img/space.jpg</file>
+        <file>sound/shot.wav</file>
+        <file>sound/hit_spaceship.wav</file>
+        <file>sound/game_theme.wav</file>
+        <file>sound/end.wav</file>
+        <file>img/end.jpg</file>
+        <file>sound/hit_alien.wav</file>
+    </qresource>
+</RCC>
